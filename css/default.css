@@ -1,3 +1,12 @@
+/*背景色适合阅读*/
 body{
   background-color:#d9b56c
+}
+
+/*大标题*/
+#header{
+  margin-top:5vh;
+  margin-left:5vw;
+  font-size:18px;
+  font-family:"黑体";
 }
