@@ -6,6 +6,6 @@
     <title>faryou的博客 - 平平淡淡 从从容容才是真</title>
   </head>
   <body>
-    <h1>faryou的博客</h1>
+    <h1 id="header">faryou的博客</h1>
   </body>
 </html>
